@@ -1,3 +1,6 @@
+var selectedWeekday;
+var selectedPeriod;
+
 function updateClassList() {
 
     var courseSelect = document.getElementById("course");
@@ -8,12 +11,12 @@ function updateClassList() {
     var periodSelect = document.getElementsByName("period");
     for (i = 0; i < weekdaySelect.length; i++) {
         if (weekdaySelect[i].checked) {
-            var selectedWeekday = weekdaySelect[i].value;
+            selectedWeekday = weekdaySelect[i].value;
         }
     }
     for (i = 0; i < periodSelect.length; i++) {
         if (periodSelect[i].checked) {
-            var selectedPeriod = periodSelect[i].value;
+            selectedPeriod = periodSelect[i].value;
         }
     }
 
@@ -38,11 +41,7 @@ function updateClassList() {
 
 function getClassInfo() {
     var courseSelect = document.getElementById("course");
-    var weekdaySelect = document.getElementById("weekday");
-    var periodSelect = document.getElementById("period");
     var selectedClass = courseSelect.value;
-    var selectedWeekday = weekdaySelect.value;
-    var selectedPeriod = periodSelect.value;
 
     // 授業情報を取得
     var selectedSchedule = scheduleData[selectedWeekday][selectedPeriod][selectedClass];
