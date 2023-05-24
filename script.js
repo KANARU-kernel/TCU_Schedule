@@ -1,4 +1,4 @@
-function getClassList() {
+function updateClassList() {
 
     var courseSelect = document.getElementById("course");
     courseSelect.innerHTML = ""; // 
