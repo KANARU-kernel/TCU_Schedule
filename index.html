@@ -5,24 +5,20 @@
 </head>
 <body>
     <h1>教室検索</h1>
-    <label for="weekday">曜日を選択してください：</label>
-    <select id="weekday">
-        <option value="0">月曜日</option>
-        <option value="1">火曜日</option>
-        <option value="2">水曜日</option>
-        <option value="3">木曜日</option>
-        <option value="4">金曜日</option>
-        <option value="5">土曜日</option>
-    </select>
+    <label for="weekday">曜日を選択してください：</label><br>
+    <input type="radio" id="weekday" name="weekday" value="0" checked>月曜日</input><br>
+    <input type="radio" id="weekday" name="weekday" value="1">火曜日</input><br>
+    <input type="radio" id="weekday" name="weekday" value="2">水曜日</input><br>
+    <input type="radio" id="weekday" name="weekday" value="3">木曜日</input><br>
+    <input type="radio" id="weekday" name="weekday" value="4">金曜日</input><br>
+    <input type="radio" id="weekday" name="weekday" value="5">土曜日</input><br>
 
     <label for="period">時限を選択してください：</label>
-    <select id="period">
-        <option value="0">一限目</option>
-        <option value="1">二限目</option>
-        <option value="2">三限目</option>
-        <option value="3">四限目</option>
-        <option value="4">五限目</option>
-    </select>
+    <input type="radio" id="period" name="period" value="0" checked>一限目</input>
+    <input type="radio" id="period" name="period" value="1">二限目</input>
+    <input type="radio" id="period" name="period" value="2">三限目</input>
+    <input type="radio" id="period" name="period" value="3">四限目</input>
+    <input type="radio" id="period" name="period" value="4">五限目</input>
 
     <button onclick="getClassList()">授業検索</button>
     <br>

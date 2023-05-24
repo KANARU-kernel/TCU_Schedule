@@ -4,10 +4,18 @@ function getClassList() {
     courseSelect.innerHTML = ""; // 
 
     // Userが選択した時間を取得
-    var weekdaySelect = document.getElementById("weekday");
-    var periodSelect = document.getElementById("period");
-    var selectedWeekday = weekdaySelect.value;
-    var selectedPeriod = periodSelect.value;
+    var weekdaySelect = document.getElementsByName("weekday");
+    var periodSelect = document.getElementsByName("period");
+    for (i = 0; i < weekdaySelect.length; i++) {
+        if (weekdaySelect[i].checked) {
+            var selectedWeekday = weekdaySelect[i].value;
+        }
+    }
+    for (i = 0; i < periodSelect.length; i++) {
+        if (periodSelect[i].checked) {
+            var selectedPeriod = periodSelect[i].value;
+        }
+    }
 
     var courseNames = [];
     var classList = scheduleData[selectedWeekday][selectedPeriod]
