@@ -1,7 +1,7 @@
 var scheduleData;
 
 function fetchData() {
-    var url = "https://kanaru-kernel.github.io/TCU_Schedule/data.json";
+    var url = "https://m1t-h4ku.github.io/TCU_Schedule/data.json";
 
     var xhr = new XMLHttpRequest();
     xhr.open("GET", url, true);
