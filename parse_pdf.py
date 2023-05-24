@@ -37,3 +37,4 @@ if __name__ == "__main__":
     print(len(table))
     # for row in table:
         # print(row)
+        

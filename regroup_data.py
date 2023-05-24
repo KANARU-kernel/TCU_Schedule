@@ -36,5 +36,10 @@ if __name__ == '__main__':
     import parse_pdf
     table = parse_pdf.parse_pdf("CommonSubject.pdf")
     data = regroup_data(table)
-    print(data[0][0][0]['Subject'])
+    #save table to a json file
+    import json
+    with open("data.json", "w", encoding="utf-8-sig") as file:
+        json.dump(data, file, ensure_ascii=False, indent=4)
+        
+    print(data[0][0][0])
     
