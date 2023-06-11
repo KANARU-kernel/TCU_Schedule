@@ -1,0 +1,737 @@
+﻿[
+    [
+        [
+            {
+                "Subject": "物理学(1)",
+                "Teacher": "砂畑 浩樹",
+                "ClassCode": "saa311106",
+                "Classroom": "1BK"
+            },
+            {
+                "Subject": "人工知能",
+                "Teacher": "中野 秀洋",
+                "ClassCode": "saa311102",
+                "Classroom": "12N"
+            },
+            {
+                "Subject": "化学(1)",
+                "Teacher": "堀越 篤史",
+                "ClassCode": "sab311108",
+                "Classroom": "31B"
+            },
+            {
+                "Subject": "情報理論",
+                "Teacher": "新家 稔央",
+                "ClassCode": "sab311101",
+                "Classroom": "1BC"
+            }
+        ],
+        [
+            {
+                "Subject": "物理学(1)演習",
+                "Teacher": "門多 顕司",
+                "ClassCode": "saa311209",
+                "Classroom": "1BL"
+            },
+            {
+                "Subject": "情報理論",
+                "Teacher": "新家 稔央",
+                "ClassCode": "saa311201",
+                "Classroom": "32A"
+            },
+            {
+                "Subject": "古典制御理論",
+                "Teacher": "大屋 英稔",
+                "ClassCode": "saa311206",
+                "Classroom": "12L"
+            },
+            {
+                "Subject": "コンピュータシステム",
+                "Teacher": "中野 秀洋",
+                "ClassCode": "sab311207",
+                "Classroom": "22C"
+            },
+            {
+                "Subject": "ベクトル解析学",
+                "Teacher": "服部 新",
+                "ClassCode": "sab151207",
+                "Classroom": "1BC"
+            },
+            {
+                "Subject": "組込みシステム",
+                "Teacher": "横山 孝典",
+                "ClassCode": "sab311203",
+                "Classroom": "12N"
+            }
+        ],
+        [
+            {
+                "Subject": "情報科学演習",
+                "Teacher": "中野 秀洋\n横山 孝典\n兪 明連\n向井 信彦\n荒井 秀一\n延澤 志保\n相原 研輔\n大屋 英稔\n新家 稔央",
+                "ClassCode": "saz311301",
+                "Classroom": "22A,22B,情報通信実験室,情報科学科掲示板参照"
+            },
+            {
+                "Subject": "基礎体育(1a)",
+                "Teacher": "山田 盛朗\n栗原 祐二\n山口 良博",
+                "ClassCode": "saa311305",
+                "Classroom": "－"
+            },
+            {
+                "Subject": "基礎体育(1b)",
+                "Teacher": "山田 盛朗\n栗原 祐二\n山口 良博",
+                "ClassCode": "sab311306",
+                "Classroom": "－"
+            }
+        ],
+        [
+            {
+                "Subject": "情報科学演習",
+                "Teacher": "中野 秀洋\n横山 孝典\n兪 明連\n向井 信彦\n荒井 秀一\n延澤 志保\n相原 研輔\n大屋 英稔\n新家 稔央",
+                "ClassCode": "saz311301",
+                "Classroom": "22A,22B,情報通信実験室,情報科学科掲示板参照"
+            },
+            {
+                "Subject": "情報リテラシー",
+                "Teacher": "張 英夏",
+                "ClassCode": "saa311401",
+                "Classroom": "22C"
+            },
+            {
+                "Subject": "微分方程式論",
+                "Teacher": "古田 公司",
+                "ClassCode": "saa311402",
+                "Classroom": "13P"
+            }
+        ],
+        [
+            {
+                "Subject": "情報科学演習",
+                "Teacher": "中野 秀洋\n横山 孝典\n兪 明連\n向井 信彦\n荒井 秀一\n延澤 志保\n相原 研輔\n大屋 英稔\n新家 稔央",
+                "ClassCode": "saz311301",
+                "Classroom": "22A,22B,情報通信実験室,情報科学科掲示板参照"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "Subject": "Reading and Writing(1a)",
+                "Teacher": "日高 正司",
+                "ClassCode": "saa112107",
+                "Classroom": "11C"
+            },
+            {
+                "Subject": "Reading and Writing(1a)",
+                "Teacher": "秋間 聖代",
+                "ClassCode": "saa112108",
+                "Classroom": "12H"
+            },
+            {
+                "Subject": "Reading and Writing(1a)",
+                "Teacher": "水戸 俊介",
+                "ClassCode": "saa112109",
+                "Classroom": "12E"
+            },
+            {
+                "Subject": "Reading and Writing(1a)",
+                "Teacher": "染谷 昌弘",
+                "ClassCode": "saa112110",
+                "Classroom": "12J"
+            },
+            {
+                "Subject": "Reading and Writing(1a)",
+                "Teacher": "稲垣 亜希子",
+                "ClassCode": "saa112111",
+                "Classroom": "12G"
+            },
+            {
+                "Subject": "Reading and Writing(1a)",
+                "Teacher": "松本 淳子",
+                "ClassCode": "saa112112",
+                "Classroom": "12F"
+            },
+            {
+                "Subject": "Reading and Writing(1a)",
+                "Teacher": "磯野 睦子",
+                "ClassCode": "saa112113",
+                "Classroom": "12C"
+            },
+            {
+                "Subject": "Reading and Writing(1a)",
+                "Teacher": "及川 邦裕",
+                "ClassCode": "saa112114",
+                "Classroom": "13J"
+            },
+            {
+                "Subject": "Reading and Writing(1a)",
+                "Teacher": "杉本 裕代",
+                "ClassCode": "saa112115",
+                "Classroom": "11E"
+            },
+            {
+                "Subject": "アルゴリズムとデータ構造",
+                "Teacher": "兪 明連",
+                "ClassCode": "saa312104",
+                "Classroom": "71B"
+            },
+            {
+                "Subject": "Reading and Writing(1b)",
+                "Teacher": "日高 正司",
+                "ClassCode": "sab112117",
+                "Classroom": "11C"
+            },
+            {
+                "Subject": "Reading and Writing(1b)",
+                "Teacher": "秋間 聖代",
+                "ClassCode": "sab112118",
+                "Classroom": "12H"
+            },
+            {
+                "Subject": "Reading and Writing(1b)",
+                "Teacher": "水戸 俊介",
+                "ClassCode": "sab112119",
+                "Classroom": "12E"
+            },
+            {
+                "Subject": "Reading and Writing(1b)",
+                "Teacher": "染谷 昌弘",
+                "ClassCode": "sab112120",
+                "Classroom": "12J"
+            },
+            {
+                "Subject": "Reading and Writing(1b)",
+                "Teacher": "稲垣 亜希子",
+                "ClassCode": "sab112121",
+                "Classroom": "12G"
+            },
+            {
+                "Subject": "Reading and Writing(1b)",
+                "Teacher": "松本 淳子",
+                "ClassCode": "sab112122",
+                "Classroom": "12F"
+            },
+            {
+                "Subject": "Reading and Writing(1b)",
+                "Teacher": "磯野 睦子",
+                "ClassCode": "sab112123",
+                "Classroom": "12C"
+            },
+            {
+                "Subject": "Reading and Writing(1b)",
+                "Teacher": "及川 邦裕",
+                "ClassCode": "sab112124",
+                "Classroom": "13J"
+            },
+            {
+                "Subject": "Reading and Writing(1b)",
+                "Teacher": "杉本 裕代",
+                "ClassCode": "sab112125",
+                "Classroom": "11E"
+            },
+            {
+                "Subject": "計算論",
+                "Teacher": "池口 徹",
+                "ClassCode": "sab312103",
+                "Classroom": "21B"
+            }
+        ],
+        [
+            {
+                "Subject": "再・線形代数学(1)",
+                "Teacher": "陸名 雄一",
+                "ClassCode": "saz312208",
+                "Classroom": "13N"
+            },
+            {
+                "Subject": "線形代数学(1a)",
+                "Teacher": "陸名 雄一",
+                "ClassCode": "saa312206",
+                "Classroom": "13N"
+            },
+            {
+                "Subject": "デジタル信号処理",
+                "Teacher": "荒井 秀一",
+                "ClassCode": "saa312204",
+                "Classroom": "21C"
+            },
+            {
+                "Subject": "デジタル信号処理",
+                "Teacher": "田口 亮",
+                "ClassCode": "saa312203",
+                "Classroom": "12K"
+            },
+            {
+                "Subject": "再・技術日本語表現技法",
+                "Teacher": "志田 晃一郎",
+                "ClassCode": "saa312201",
+                "Classroom": "12P"
+            },
+            {
+                "Subject": "線形代数学(1b)",
+                "Teacher": "陸名 雄一",
+                "ClassCode": "sab312207",
+                "Classroom": "13N"
+            },
+            {
+                "Subject": "基礎論理回路",
+                "Teacher": "田口 亮",
+                "ClassCode": "sab312202",
+                "Classroom": "22C"
+            },
+            {
+                "Subject": "計算論",
+                "Teacher": "池口 徹",
+                "ClassCode": "sab312103",
+                "Classroom": "21B"
+            }
+        ],
+        [
+            {
+                "Subject": "コンピュータ概論",
+                "Teacher": "向井 信彦",
+                "ClassCode": "saa312305",
+                "Classroom": "21C"
+            },
+            {
+                "Subject": "インタラクティブ･メディア",
+                "Teacher": "包 躍",
+                "ClassCode": "saa312304",
+                "Classroom": "13K"
+            },
+            {
+                "Subject": "基礎確率統計",
+                "Teacher": "相原 研輔",
+                "ClassCode": "sab312303",
+                "Classroom": "21C"
+            },
+            {
+                "Subject": "データベースシステム",
+                "Teacher": "延澤 志保",
+                "ClassCode": "sab312301",
+                "Classroom": "12A"
+            },
+            {
+                "Subject": "視覚情報システム",
+                "Teacher": "包 躍",
+                "ClassCode": "sab312306",
+                "Classroom": "13K"
+            }
+        ],
+        [
+            {
+                "Subject": "再・数学演習(1)",
+                "Teacher": "古田 公司\n永並 健吾\n波多野 修也",
+                "ClassCode": "saz312409",
+                "Classroom": "12A,12B,12C"
+            },
+            {
+                "Subject": "数学演習(1a)",
+                "Teacher": "古田 公司\n永並 健吾\n波多野 修也",
+                "ClassCode": "saa312407",
+                "Classroom": "12A,12B,12C"
+            },
+            {
+                "Subject": "ｵﾌﾞｼﾞｪｸﾄ指向ﾌﾟﾛｸﾞﾗﾐﾝｸﾞ(1)",
+                "Teacher": "横山 孝典",
+                "ClassCode": "saa312401",
+                "Classroom": "12D"
+            },
+            {
+                "Subject": "プログラミング言語処理",
+                "Teacher": "延澤 志保",
+                "ClassCode": "saa312402",
+                "Classroom": "12K"
+            },
+            {
+                "Subject": "数学演習(1b)",
+                "Teacher": "古田 公司\n永並 健吾\n波多野 修也",
+                "ClassCode": "sab312408",
+                "Classroom": "12A,12B,12C"
+            },
+            {
+                "Subject": "ｵﾌﾞｼﾞｪｸﾄ指向ﾌﾟﾛｸﾞﾗﾐﾝｸﾞ(2)",
+                "Teacher": "横山 孝典",
+                "ClassCode": "sab312403",
+                "Classroom": "12D"
+            },
+            {
+                "Subject": "画像処理",
+                "Teacher": "向井 信彦",
+                "ClassCode": "sab312404",
+                "Classroom": "21B"
+            }
+        ],
+        [
+            {
+                "Subject": "ｵﾌﾞｼﾞｪｸﾄ指向ﾌﾟﾛｸﾞﾗﾐﾝｸﾞ(1)",
+                "Teacher": "横山 孝典",
+                "ClassCode": "saa312401",
+                "Classroom": "12D"
+            },
+            {
+                "Subject": "ｵﾌﾞｼﾞｪｸﾄ指向ﾌﾟﾛｸﾞﾗﾐﾝｸﾞ(2)",
+                "Teacher": "横山 孝典",
+                "ClassCode": "sab312403",
+                "Classroom": "12D"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "Subject": "SD PBL(1)",
+                "Teacher": "向井 信彦\n荒井 秀一\n大屋 英稔\n田口 亮\n中野 秀洋\n包 躍\n兪 明連\n横山 孝典\n相原 研輔\n陳 オリビア\n張 英夏\n新家 稔央\n延澤 志保\n星 義克",
+                "ClassCode": "saz313101",
+                "Classroom": "61C,1BL(1Q)1BC,1BD,1BL,1BM,1BN(2Q)"
+            }
+        ],
+        [
+            {
+                "Subject": "SD PBL(2)",
+                "Teacher": "向井 信彦\n荒井 秀一\n大屋 英稔\n田口 亮\n中野 秀洋\n包 躍\n兪 明連\n横山 孝典\n相原 研輔\n陳 オリビア\n張 英夏\n新家 稔央\n延澤 志保\n星 義克",
+                "ClassCode": "saz313201",
+                "Classroom": "1BC,1BD,1BL,1BM(1Q)1BC,1BD,1BL,1BM,1BN(2Q)"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "Subject": "物理学(1)",
+                "Teacher": "門多 顕司",
+                "ClassCode": "saa311105",
+                "Classroom": "1BL"
+            },
+            {
+                "Subject": "物理学(1)",
+                "Teacher": "砂畑 浩樹",
+                "ClassCode": "saa311106",
+                "Classroom": "1BK"
+            },
+            {
+                "Subject": "人工知能",
+                "Teacher": "中野 秀洋",
+                "ClassCode": "saa311102",
+                "Classroom": "12N"
+            },
+            {
+                "Subject": "化学(1)",
+                "Teacher": "堀越 篤史",
+                "ClassCode": "sab311108",
+                "Classroom": "31B"
+            },
+            {
+                "Subject": "情報理論",
+                "Teacher": "新家 稔央",
+                "ClassCode": "sab311101",
+                "Classroom": "1BC"
+            }
+        ],
+        [
+            {
+                "Subject": "物理学(1)演習",
+                "Teacher": "門多 顕司",
+                "ClassCode": "saa311209",
+                "Classroom": "1BL"
+            },
+            {
+                "Subject": "情報理論",
+                "Teacher": "新家 稔央",
+                "ClassCode": "saa311201",
+                "Classroom": "32A"
+            },
+            {
+                "Subject": "古典制御理論",
+                "Teacher": "大屋 英稔",
+                "ClassCode": "saa311206",
+                "Classroom": "12L"
+            },
+            {
+                "Subject": "コンピュータシステム",
+                "Teacher": "中野 秀洋",
+                "ClassCode": "sab311207",
+                "Classroom": "22C"
+            },
+            {
+                "Subject": "組込みシステム",
+                "Teacher": "横山 孝典",
+                "ClassCode": "sab311203",
+                "Classroom": "12N"
+            }
+        ],
+        [],
+        [
+            {
+                "Subject": "情報リテラシー",
+                "Teacher": "張 英夏",
+                "ClassCode": "saa311401",
+                "Classroom": "22C"
+            },
+            {
+                "Subject": "微分方程式論",
+                "Teacher": "古田 公司",
+                "ClassCode": "saa311402",
+                "Classroom": "13P"
+            },
+            {
+                "Subject": "ベクトル解析学",
+                "Teacher": "服部 新",
+                "ClassCode": "sab151207",
+                "Classroom": "1BC"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "Subject": "Communication Skills(1)",
+                "Teacher": "E・マディーン",
+                "ClassCode": "saz115103",
+                "Classroom": "13L"
+            },
+            {
+                "Subject": "Communication Skills(1)",
+                "Teacher": "倉持 和歌子",
+                "ClassCode": "saz115104",
+                "Classroom": "12C"
+            },
+            {
+                "Subject": "Communication Skills(1)",
+                "Teacher": "吹野 佐枝子",
+                "ClassCode": "saz115105",
+                "Classroom": "12F"
+            },
+            {
+                "Subject": "Communication Skills(1)",
+                "Teacher": "松本 弘法",
+                "ClassCode": "saz115106",
+                "Classroom": "12D"
+            },
+            {
+                "Subject": "Communication Skills(1)",
+                "Teacher": "植野 貴志子",
+                "ClassCode": "saz115107",
+                "Classroom": "11F"
+            },
+            {
+                "Subject": "Communication Skills(1)",
+                "Teacher": "稲垣 亜希子",
+                "ClassCode": "saz115108",
+                "Classroom": "12G"
+            },
+            {
+                "Subject": "Communication Skills(1)",
+                "Teacher": "三幣 友行",
+                "ClassCode": "saz115109",
+                "Classroom": "11D"
+            },
+            {
+                "Subject": "Communication Skills(1)",
+                "Teacher": "杉本 裕代",
+                "ClassCode": "saz115110",
+                "Classroom": "11E"
+            },
+            {
+                "Subject": "Communication Skills(1)",
+                "Teacher": "秋山 義典",
+                "ClassCode": "saz115111",
+                "Classroom": "11A"
+            },
+            {
+                "Subject": "アルゴリズムとデータ構造",
+                "Teacher": "兪 明連",
+                "ClassCode": "saa312104",
+                "Classroom": "71B"
+            },
+            {
+                "Subject": "専門キャリアデザイン",
+                "Teacher": "川上 誓",
+                "ClassCode": "sab315101",
+                "Classroom": "1BB"
+            }
+        ],
+        [
+            {
+                "Subject": "再・微分積分学(1)",
+                "Teacher": "大槻 玲",
+                "ClassCode": "saz315206",
+                "Classroom": "13N"
+            },
+            {
+                "Subject": "微分積分学(1a)",
+                "Teacher": "大槻 玲",
+                "ClassCode": "saa315204",
+                "Classroom": "13N"
+            },
+            {
+                "Subject": "デジタル信号処理",
+                "Teacher": "荒井 秀一",
+                "ClassCode": "saa312204",
+                "Classroom": "21C"
+            },
+            {
+                "Subject": "デジタル信号処理",
+                "Teacher": "田口 亮",
+                "ClassCode": "saa312203",
+                "Classroom": "12K"
+            },
+            {
+                "Subject": "再・技術日本語表現技法",
+                "Teacher": "志田 晃一郎",
+                "ClassCode": "saa312201",
+                "Classroom": "12P"
+            },
+            {
+                "Subject": "微分積分学(1b)",
+                "Teacher": "大槻 玲",
+                "ClassCode": "sab315205",
+                "Classroom": "13N"
+            },
+            {
+                "Subject": "基礎論理回路",
+                "Teacher": "田口 亮",
+                "ClassCode": "sab312202",
+                "Classroom": "22C"
+            },
+            {
+                "Subject": "専門キャリアデザイン",
+                "Teacher": "川上 誓",
+                "ClassCode": "sab315101",
+                "Classroom": "1BB"
+            }
+        ],
+        [
+            {
+                "Subject": "コンピュータ概論",
+                "Teacher": "向井 信彦",
+                "ClassCode": "saa312305",
+                "Classroom": "21C"
+            },
+            {
+                "Subject": "インタラクティブ･メディア",
+                "Teacher": "包 躍",
+                "ClassCode": "saa312304",
+                "Classroom": "13K"
+            },
+            {
+                "Subject": "基礎確率統計",
+                "Teacher": "相原 研輔",
+                "ClassCode": "sab312303",
+                "Classroom": "21C"
+            },
+            {
+                "Subject": "データベースシステム",
+                "Teacher": "延澤 志保",
+                "ClassCode": "sab312301",
+                "Classroom": "12A"
+            },
+            {
+                "Subject": "視覚情報システム",
+                "Teacher": "包 躍",
+                "ClassCode": "sab312306",
+                "Classroom": "13K"
+            }
+        ],
+        [
+            {
+                "Subject": "プログラミング言語処理",
+                "Teacher": "延澤 志保",
+                "ClassCode": "saa312402",
+                "Classroom": "12K"
+            },
+            {
+                "Subject": "ハードウェア記述言語",
+                "Teacher": "陳 オリビア",
+                "ClassCode": "sab315401",
+                "Classroom": "21C"
+            },
+            {
+                "Subject": "画像処理",
+                "Teacher": "向井 信彦",
+                "ClassCode": "sab312404",
+                "Classroom": "21B"
+            }
+        ],
+        [
+            {
+                "Subject": "ハードウェア記述言語",
+                "Teacher": "陳 オリビア",
+                "ClassCode": "sab315401",
+                "Classroom": "21C"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "Subject": "再・情報社会と職業",
+                "Teacher": "川上 誓",
+                "ClassCode": "saz316103",
+                "Classroom": "12B"
+            },
+            {
+                "Subject": "プログラミング(1)",
+                "Teacher": "星 義克",
+                "ClassCode": "saa316101",
+                "Classroom": "21C"
+            },
+            {
+                "Subject": "情報社会と職業(a)",
+                "Teacher": "川上 誓",
+                "ClassCode": "saa316105",
+                "Classroom": "12B"
+            },
+            {
+                "Subject": "プログラミング(2)",
+                "Teacher": "相原 研輔",
+                "ClassCode": "sab316102",
+                "Classroom": "21C"
+            },
+            {
+                "Subject": "情報社会と職業(b)",
+                "Teacher": "川上 誓",
+                "ClassCode": "sab316106",
+                "Classroom": "12B"
+            }
+        ],
+        [
+            {
+                "Subject": "プログラミング(1)",
+                "Teacher": "星 義克",
+                "ClassCode": "saa316101",
+                "Classroom": "21C"
+            },
+            {
+                "Subject": "プログラミング(2)",
+                "Teacher": "相原 研輔",
+                "ClassCode": "sab316102",
+                "Classroom": "21C"
+            },
+            {
+                "Subject": "データサイエンスリテラシー(1)",
+                "Teacher": "鈴木 健二",
+                "ClassCode": "saz567601",
+                "Classroom": "-"
+            },
+            {
+                "Subject": "メディア表現",
+                "Teacher": "江口 響子",
+                "ClassCode": "saz317601",
+                "Classroom": "-"
+            },
+            {
+                "Subject": "再・情報リテラシー",
+                "Teacher": "張 英夏",
+                "ClassCode": "saz317607",
+                "Classroom": "-"
+            },
+            {
+                "Subject": "卒業研究(1)",
+                "Teacher": "向井 信彦\n荒井 秀一\n大屋 英稔\n田口 亮\n中野 秀洋\n包 躍\n兪 明連\n横山 孝典\n相原 研輔\n陳 オリビア\n張 英夏\n新家 稔央\n延澤 志保\n星 義克\n高橋 弘毅\n山口 敦子",
+                "ClassCode": "saz317604",
+                "Classroom": "-"
+            }
+        ]
+    ]
+]

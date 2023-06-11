@@ -354,6 +354,12 @@
                 "Classroom": "1BL"
             },
             {
+                "Subject": "物理学実験(b)",
+                "Teacher": "長田 剛\n木浪 信之\n砂畑 浩樹\n手束 文子\n中島 啓光\n深井 佳乃\n平山 博之\n糸井 充穂",
+                "ClassCode": "sab131308",
+                "Classroom": "物理学実験室(62H)"
+            },
+            {
                 "Subject": "物理学実験(2)",
                 "Teacher": "長田 剛\n木浪 信之\n砂畑 浩樹\n手束 文子\n中島 啓光\n深井 佳乃\n平山 博之\n糸井 充穂",
                 "ClassCode": "sab131308",
@@ -656,6 +662,12 @@
                 "Teacher": "高辻 成彦",
                 "ClassCode": "saa001213",
                 "Classroom": "61C"
+            },
+            {
+                "Subject": "法学",
+                "Teacher": "大沼 友紀恵",
+                "ClassCode": "saa002204",
+                "Classroom": "13L"
             },
             {
                 "Subject": "基礎体育(1a)",
@@ -978,6 +990,12 @@
                 "Teacher": "今野 紀子",
                 "ClassCode": "saz002411",
                 "Classroom": "12L"
+            },
+            {
+                "Subject": "再・物理学実験",
+                "Teacher": "門多 顕司\n大野 玲\n栗栖 牧生\n鈴木 ひろみ\n西川 浩之\n金子 核\n三原 国子\n尼子 淳",
+                "ClassCode": "saz122310",
+                "Classroom": "物理学実験室(62H)"
             },
             {
                 "Subject": "応用体育(1)",
@@ -1318,6 +1336,12 @@
                 "Classroom": "13K"
             },
             {
+                "Subject": "数学教育法(3)",
+                "Teacher": "鈴木 邦夫",
+                "ClassCode": "saz007620",
+                "Classroom": "12B"
+            },
+            {
                 "Subject": "教育実習事前事後指導(2)",
                 "Teacher": "井上 健\n高橋 哲男\n渡邉 大輔\n殿村 洋文",
                 "ClassCode": "saz003503",
@@ -1577,6 +1601,12 @@
             },
             {
                 "Subject": "生物学",
+                "Teacher": "宮崎 正峰",
+                "ClassCode": "saa001234",
+                "Classroom": "31B"
+            },
+            {
+                "Subject": "生物学(1)",
                 "Teacher": "宮崎 正峰",
                 "ClassCode": "saa001234",
                 "Classroom": "31B"
@@ -2002,6 +2032,12 @@
                 "Classroom": "13J"
             },
             {
+                "Subject": "再・CommunicationSkills(1)",
+                "Teacher": "高橋 比路史",
+                "ClassCode": "saz004506",
+                "Classroom": "12A"
+            },
+            {
                 "Subject": "再・Reading andWriting(1)",
                 "Teacher": "佐竹 幸信",
                 "ClassCode": "saz004508",
@@ -2198,6 +2234,12 @@
                 "Teacher": "丸島 和洋",
                 "ClassCode": "saa005207",
                 "Classroom": "11B"
+            },
+            {
+                "Subject": "地学(1)",
+                "Teacher": "清家 一馬",
+                "ClassCode": "sab002207",
+                "Classroom": "31B"
             },
             {
                 "Subject": "スポーツ･健康論",
@@ -2588,6 +2630,12 @@
                 "Classroom": "6号館学生実験室"
             },
             {
+                "Subject": "再・生物学実験",
+                "Teacher": "福田 達哉\n中島 保寿\n池田 佑美\n池島 宏子\n石井 義孝",
+                "ClassCode": "saz006103",
+                "Classroom": "6号館学生実験室"
+            },
+            {
                 "Subject": "生物学実験(a)",
                 "Teacher": "福田 達哉\n中島 保寿\n池田 佑美\n池島 宏子\n石井 義孝",
                 "ClassCode": "saa006101",
@@ -2729,6 +2777,12 @@
                 "Subject": "生物学実験(a)",
                 "Teacher": "福田 達哉\n中島 保寿\n池田 佑美\n池島 宏子\n石井 義孝",
                 "ClassCode": "saa006301",
+                "Classroom": "6号館学生実験室"
+            },
+            {
+                "Subject": "生物学実験(b)",
+                "Teacher": "福田 達哉\n中島 保寿\n池田 佑美\n池島 宏子\n石井 義孝",
+                "ClassCode": "sab006302",
                 "Classroom": "6号館学生実験室"
             },
             {
