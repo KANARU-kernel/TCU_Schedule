@@ -1,7 +1,8 @@
 var scheduleData;
 
-function fetchData() {
-    var url = "https://m1t-h4ku.github.io/TCU_Schedule/data.json";
+function fetchData(filename) {
+    var path = "json/";
+    var url = path + filename;
 
     var xhr = new XMLHttpRequest();
     xhr.open("GET", url, true);
@@ -13,5 +14,3 @@ function fetchData() {
     xhr.send();
 
 }
-
-fetchData();
