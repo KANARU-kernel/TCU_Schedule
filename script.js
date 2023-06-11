@@ -52,8 +52,14 @@ function updateClassInfo() {
 }
 
 function updateMajor() {
-    var majorSelect = document.getElementsByName("subject");
-    fetchData(majorSelect.value + ".json");
+    var majorSelect = document.getElementsByName("Major");
+    var selectedMajor;
+    for (i = 0; i < majorSelect.length; i++) {
+        if (majorSelect[i].checked) {
+            selectedMajor = majorSelect[i].value;
+        }
+    }
+    fetchData(selectedMajor + ".json");
     updateClassList();
 }
 
