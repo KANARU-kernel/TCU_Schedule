@@ -13,7 +13,6 @@ def parse_pdf(path):
     for page in pdf.pages:
         table = page.extract_table(table_settings)
         #remove the first row
-        table.pop(0)
         # remove \n in the string from table and remove empty rows
         for row in table:
             if row[6] == "" and row[7] == "" and row[9] == "":
@@ -28,13 +27,16 @@ def parse_pdf(path):
                     table[i][j] = table[i - 1][j]
             all_table.append(table[i])
     
+    # remove the title row
+    all_table.pop(0)
+    
     return all_table
 
 
 if __name__ == "__main__":
-    path = "CommonSubject.pdf"
+    path = "pdf/ComputerScience.pdf"
     table = parse_pdf(path)
-    print(len(table))
-    # for row in table:
-        # print(row)
+    # print(len(table))
+    for row in table:
+        print(row)
         
