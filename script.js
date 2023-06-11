@@ -39,7 +39,7 @@ function updateClassList() {
     
 }
 
-function getClassInfo() {
+function updateClassInfo() {
     var courseSelect = document.getElementById("course");
     var selectedClass = courseSelect.value;
 
@@ -49,6 +49,12 @@ function getClassInfo() {
     // 授業情報を表示
     var scheduleDiv = document.getElementById("schedule");
     scheduleDiv.innerHTML = "授業名：" + selectedSchedule.Subject + "<br>教室：" + selectedSchedule.Classroom + "<br>講師：" + selectedSchedule.Teacher;
+}
+
+function updateMajor() {
+    var majorSelect = document.getElementByName("subject");
+    fetchData(majorSelect.value + ".json");
+    updateClassList();
 }
 
 //get current period from time
@@ -86,6 +92,8 @@ function getCurrentWeekday() {
 
     return currentWeekday;
 }
+
+
 
 fetchData("CommonSubject.json");
 //execute when page loaded
