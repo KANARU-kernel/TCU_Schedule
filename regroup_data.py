@@ -48,12 +48,12 @@ def regroup_data(extracted_data):
 if __name__ == "__main__":
     import parse_pdf
 
-    table = parse_pdf.parse_pdf("pdf/ComputerScience.pdf")
+    table = parse_pdf.parse_pdf("pdf/IntelligentSystems.pdf")
     data = regroup_data(table)
     # save table to a json file with same file name
     import json
 
-    with open("json/ComputerScience.json", "w", encoding="utf-8-sig") as file:
+    with open("json/IntelligentSystems.json", "w", encoding="utf-8-sig") as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
 
     print(data[0][0][0])
