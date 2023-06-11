@@ -52,7 +52,7 @@ function updateClassInfo() {
 }
 
 function updateMajor() {
-    var majorSelect = document.getElementByName("subject");
+    var majorSelect = document.getElementsByName("subject");
     fetchData(majorSelect.value + ".json");
     updateClassList();
 }
