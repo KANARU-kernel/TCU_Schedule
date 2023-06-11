@@ -59,8 +59,7 @@ function updateMajor() {
             selectedMajor = majorSelect[i].value;
         }
     }
-    fetchData(selectedMajor + ".json");
-    updateClassList();
+    fetchData(selectedMajor + ".json", updateClassList);
 }
 
 //get current period from time
@@ -101,7 +100,7 @@ function getCurrentWeekday() {
 
 
 
-fetchData("CommonSubject.json");
+// fetchData("CommonSubject.json");
 //execute when page loaded
 window.onload = function () {
     //select radio bottom automatically
@@ -115,6 +114,7 @@ window.onload = function () {
     weekdaySelect[currentWeekday].checked = true;
     periodSelect[currentPeriod].checked = true;
     //update class list
-    updateClassList();
+    // updateClassList();
+    updateMajor();
 }
 
