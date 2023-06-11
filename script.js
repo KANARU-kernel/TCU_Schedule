@@ -61,20 +61,18 @@ function getCurrentPeriod() {
     var currentMinute = now.getMinutes();
     var currentTime = currentHour * 60 + currentMinute;
 
-    if (currentWeekday == 0 || currentWeekday == 6) {
+    if (currentWeekday == 0) {
         currentPeriod = 0;
-    } else if (currentTime >= 560 && currentTime < 670) {
+    } else if (currentTime >= 1120 || currentTime < 660) { // before 11:00
         currentPeriod = 0;
-    } else if (currentTime >= 670 && currentTime < 780) {
+    } else if (currentTime >= 660 && currentTime < 770) { // 11:00 ~ 12:50
         currentPeriod = 1;
-    } else if (currentTime >= 780 && currentTime < 890) {
+    } else if (currentTime >= 770 && currentTime < 920) { // 12:50 ~ 15:20
         currentPeriod = 2;
-    } else if (currentTime >= 890 && currentTime < 1000) {
+    } else if (currentTime >= 920 && currentTime < 1030) { // 15:20 ~ 17:10
         currentPeriod = 3;
-    } else if (currentTime >= 1000 && currentTime < 1110) {
+    } else if (currentTime >= 1030 && currentTime < 1120) { // 17:10 ~ 19:00
         currentPeriod = 4;
-    } else {
-        currentPeriod = 0;
     }
 
     return currentPeriod;
@@ -84,17 +82,20 @@ function getCurrentPeriod() {
 //0:Monday, 1:Tuesday, 2:Wednesday, 3:Thursday, 4:Friday, 5:Saturday, 6:Sunday
 function getCurrentWeekday() {
     var now = new Date();
-    var currentWeekday = now.getDay();
+    var currentWeekday = now.getDay() - 1;
 
-    return currentWeekday - 1;
+    return currentWeekday;
 }
 
 fetchData("CommonSubject.json");
-//excute when page loaded
+//execute when page loaded
 window.onload = function () {
     //select radio bottom automatically
     var currentPeriod = getCurrentPeriod();
     var currentWeekday = getCurrentWeekday();
+    if (currentWeekday == -1) {
+        currentWeekday = 0;
+    }
     var weekdaySelect = document.getElementsByName("weekday");
     var periodSelect = document.getElementsByName("period");
     weekdaySelect[currentWeekday].checked = true;
