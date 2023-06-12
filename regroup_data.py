@@ -4,7 +4,7 @@ def regroup_data(extracted_data):
 
     # loop through the extracted data
     for row in extracted_data:
-        print(row)
+        # print(row)
 
         # check row[1] to see which day it is
         match (row[1]):
@@ -32,9 +32,10 @@ def regroup_data(extracted_data):
         while len(data[day]) < period + 1:
             data[day].append([])
 
-        print(len(data[day]), period)
+        # print(len(data[day]), period)
         data[day][period].append(
             {
+                "Semester": row[3],
                 "Subject": row[6],
                 "Teacher": row[7],
                 "ClassCode": row[8],
@@ -48,12 +49,18 @@ def regroup_data(extracted_data):
 if __name__ == "__main__":
     import parse_pdf
 
-    table = parse_pdf.parse_pdf("pdf/IntelligentSystems.pdf")
+    # get all pdf in the pdf folder
+
+    # filename = "IntelligentSystems"
+    filename = "ComputerScience"
+    # filename = "CommonSubject"
+
+    table = parse_pdf.parse_pdf("pdf/" + filename + ".pdf")
     data = regroup_data(table)
     # save table to a json file with same file name
     import json
 
-    with open("json/IntelligentSystems.json", "w", encoding="utf-8-sig") as file:
+    with open("json/" + filename + ".json", "w", encoding="utf-8-sig") as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
 
     print(data[0][0][0])

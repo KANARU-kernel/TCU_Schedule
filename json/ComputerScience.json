@@ -2,24 +2,28 @@
     [
         [
             {
+                "Semester": "前期前",
                 "Subject": "物理学(1)",
                 "Teacher": "砂畑 浩樹",
                 "ClassCode": "saa311106",
                 "Classroom": "1BK"
             },
             {
+                "Semester": "前期前",
                 "Subject": "人工知能",
                 "Teacher": "中野 秀洋",
                 "ClassCode": "saa311102",
                 "Classroom": "12N"
             },
             {
+                "Semester": "前期後",
                 "Subject": "化学(1)",
                 "Teacher": "堀越 篤史",
                 "ClassCode": "sab311108",
                 "Classroom": "31B"
             },
             {
+                "Semester": "前期後",
                 "Subject": "情報理論",
                 "Teacher": "新家 稔央",
                 "ClassCode": "sab311101",
@@ -28,36 +32,42 @@
         ],
         [
             {
+                "Semester": "前期前",
                 "Subject": "物理学(1)演習",
                 "Teacher": "門多 顕司",
                 "ClassCode": "saa311209",
                 "Classroom": "1BL"
             },
             {
+                "Semester": "前期前",
                 "Subject": "情報理論",
                 "Teacher": "新家 稔央",
                 "ClassCode": "saa311201",
                 "Classroom": "32A"
             },
             {
+                "Semester": "前期前",
                 "Subject": "古典制御理論",
                 "Teacher": "大屋 英稔",
                 "ClassCode": "saa311206",
                 "Classroom": "12L"
             },
             {
+                "Semester": "前期後",
                 "Subject": "コンピュータシステム",
                 "Teacher": "中野 秀洋",
                 "ClassCode": "sab311207",
                 "Classroom": "22C"
             },
             {
+                "Semester": "前期後",
                 "Subject": "ベクトル解析学",
                 "Teacher": "服部 新",
                 "ClassCode": "sab151207",
                 "Classroom": "1BC"
             },
             {
+                "Semester": "前期後",
                 "Subject": "組込みシステム",
                 "Teacher": "横山 孝典",
                 "ClassCode": "sab311203",
@@ -66,18 +76,21 @@
         ],
         [
             {
+                "Semester": "前期",
                 "Subject": "情報科学演習",
                 "Teacher": "中野 秀洋\n横山 孝典\n兪 明連\n向井 信彦\n荒井 秀一\n延澤 志保\n相原 研輔\n大屋 英稔\n新家 稔央",
                 "ClassCode": "saz311301",
                 "Classroom": "22A,22B,情報通信実験室,情報科学科掲示板参照"
             },
             {
+                "Semester": "前期前",
                 "Subject": "基礎体育(1a)",
                 "Teacher": "山田 盛朗\n栗原 祐二\n山口 良博",
                 "ClassCode": "saa311305",
                 "Classroom": "－"
             },
             {
+                "Semester": "前期後",
                 "Subject": "基礎体育(1b)",
                 "Teacher": "山田 盛朗\n栗原 祐二\n山口 良博",
                 "ClassCode": "sab311306",
@@ -86,18 +99,21 @@
         ],
         [
             {
+                "Semester": "前期",
                 "Subject": "情報科学演習",
                 "Teacher": "中野 秀洋\n横山 孝典\n兪 明連\n向井 信彦\n荒井 秀一\n延澤 志保\n相原 研輔\n大屋 英稔\n新家 稔央",
                 "ClassCode": "saz311301",
                 "Classroom": "22A,22B,情報通信実験室,情報科学科掲示板参照"
             },
             {
+                "Semester": "前期前",
                 "Subject": "情報リテラシー",
                 "Teacher": "張 英夏",
                 "ClassCode": "saa311401",
                 "Classroom": "22C"
             },
             {
+                "Semester": "前期前",
                 "Subject": "微分方程式論",
                 "Teacher": "古田 公司",
                 "ClassCode": "saa311402",
@@ -106,6 +122,7 @@
         ],
         [
             {
+                "Semester": "前期",
                 "Subject": "情報科学演習",
                 "Teacher": "中野 秀洋\n横山 孝典\n兪 明連\n向井 信彦\n荒井 秀一\n延澤 志保\n相原 研輔\n大屋 英稔\n新家 稔央",
                 "ClassCode": "saz311301",
@@ -116,120 +133,140 @@
     [
         [
             {
+                "Semester": "前期前",
                 "Subject": "Reading and Writing(1a)",
                 "Teacher": "日高 正司",
                 "ClassCode": "saa112107",
                 "Classroom": "11C"
             },
             {
+                "Semester": "前期前",
                 "Subject": "Reading and Writing(1a)",
                 "Teacher": "秋間 聖代",
                 "ClassCode": "saa112108",
                 "Classroom": "12H"
             },
             {
+                "Semester": "前期前",
                 "Subject": "Reading and Writing(1a)",
                 "Teacher": "水戸 俊介",
                 "ClassCode": "saa112109",
                 "Classroom": "12E"
             },
             {
+                "Semester": "前期前",
                 "Subject": "Reading and Writing(1a)",
                 "Teacher": "染谷 昌弘",
                 "ClassCode": "saa112110",
                 "Classroom": "12J"
             },
             {
+                "Semester": "前期前",
                 "Subject": "Reading and Writing(1a)",
                 "Teacher": "稲垣 亜希子",
                 "ClassCode": "saa112111",
                 "Classroom": "12G"
             },
             {
+                "Semester": "前期前",
                 "Subject": "Reading and Writing(1a)",
                 "Teacher": "松本 淳子",
                 "ClassCode": "saa112112",
                 "Classroom": "12F"
             },
             {
+                "Semester": "前期前",
                 "Subject": "Reading and Writing(1a)",
                 "Teacher": "磯野 睦子",
                 "ClassCode": "saa112113",
                 "Classroom": "12C"
             },
             {
+                "Semester": "前期前",
                 "Subject": "Reading and Writing(1a)",
                 "Teacher": "及川 邦裕",
                 "ClassCode": "saa112114",
                 "Classroom": "13J"
             },
             {
+                "Semester": "前期前",
                 "Subject": "Reading and Writing(1a)",
                 "Teacher": "杉本 裕代",
                 "ClassCode": "saa112115",
                 "Classroom": "11E"
             },
             {
+                "Semester": "前期前",
                 "Subject": "アルゴリズムとデータ構造",
                 "Teacher": "兪 明連",
                 "ClassCode": "saa312104",
                 "Classroom": "71B"
             },
             {
+                "Semester": "前期後",
                 "Subject": "Reading and Writing(1b)",
                 "Teacher": "日高 正司",
                 "ClassCode": "sab112117",
                 "Classroom": "11C"
             },
             {
+                "Semester": "前期後",
                 "Subject": "Reading and Writing(1b)",
                 "Teacher": "秋間 聖代",
                 "ClassCode": "sab112118",
                 "Classroom": "12H"
             },
             {
+                "Semester": "前期後",
                 "Subject": "Reading and Writing(1b)",
                 "Teacher": "水戸 俊介",
                 "ClassCode": "sab112119",
                 "Classroom": "12E"
             },
             {
+                "Semester": "前期後",
                 "Subject": "Reading and Writing(1b)",
                 "Teacher": "染谷 昌弘",
                 "ClassCode": "sab112120",
                 "Classroom": "12J"
             },
             {
+                "Semester": "前期後",
                 "Subject": "Reading and Writing(1b)",
                 "Teacher": "稲垣 亜希子",
                 "ClassCode": "sab112121",
                 "Classroom": "12G"
             },
             {
+                "Semester": "前期後",
                 "Subject": "Reading and Writing(1b)",
                 "Teacher": "松本 淳子",
                 "ClassCode": "sab112122",
                 "Classroom": "12F"
             },
             {
+                "Semester": "前期後",
                 "Subject": "Reading and Writing(1b)",
                 "Teacher": "磯野 睦子",
                 "ClassCode": "sab112123",
                 "Classroom": "12C"
             },
             {
+                "Semester": "前期後",
                 "Subject": "Reading and Writing(1b)",
                 "Teacher": "及川 邦裕",
                 "ClassCode": "sab112124",
                 "Classroom": "13J"
             },
             {
+                "Semester": "前期後",
                 "Subject": "Reading and Writing(1b)",
                 "Teacher": "杉本 裕代",
                 "ClassCode": "sab112125",
                 "Classroom": "11E"
             },
             {
+                "Semester": "前期後",
                 "Subject": "計算論",
                 "Teacher": "池口 徹",
                 "ClassCode": "sab312103",
@@ -238,48 +275,56 @@
         ],
         [
             {
+                "Semester": "前期",
                 "Subject": "再・線形代数学(1)",
                 "Teacher": "陸名 雄一",
                 "ClassCode": "saz312208",
                 "Classroom": "13N"
             },
             {
+                "Semester": "前期前",
                 "Subject": "線形代数学(1a)",
                 "Teacher": "陸名 雄一",
                 "ClassCode": "saa312206",
                 "Classroom": "13N"
             },
             {
+                "Semester": "前期前",
                 "Subject": "デジタル信号処理",
                 "Teacher": "荒井 秀一",
                 "ClassCode": "saa312204",
                 "Classroom": "21C"
             },
             {
+                "Semester": "前期前",
                 "Subject": "デジタル信号処理",
                 "Teacher": "田口 亮",
                 "ClassCode": "saa312203",
                 "Classroom": "12K"
             },
             {
+                "Semester": "前期前",
                 "Subject": "再・技術日本語表現技法",
                 "Teacher": "志田 晃一郎",
                 "ClassCode": "saa312201",
                 "Classroom": "12P"
             },
             {
+                "Semester": "前期後",
                 "Subject": "線形代数学(1b)",
                 "Teacher": "陸名 雄一",
                 "ClassCode": "sab312207",
                 "Classroom": "13N"
             },
             {
+                "Semester": "前期後",
                 "Subject": "基礎論理回路",
                 "Teacher": "田口 亮",
                 "ClassCode": "sab312202",
                 "Classroom": "22C"
             },
             {
+                "Semester": "前期後",
                 "Subject": "計算論",
                 "Teacher": "池口 徹",
                 "ClassCode": "sab312103",
@@ -288,30 +333,35 @@
         ],
         [
             {
+                "Semester": "前期前",
                 "Subject": "コンピュータ概論",
                 "Teacher": "向井 信彦",
                 "ClassCode": "saa312305",
                 "Classroom": "21C"
             },
             {
+                "Semester": "前期前",
                 "Subject": "インタラクティブ･メディア",
                 "Teacher": "包 躍",
                 "ClassCode": "saa312304",
                 "Classroom": "13K"
             },
             {
+                "Semester": "前期後",
                 "Subject": "基礎確率統計",
                 "Teacher": "相原 研輔",
                 "ClassCode": "sab312303",
                 "Classroom": "21C"
             },
             {
+                "Semester": "前期後",
                 "Subject": "データベースシステム",
                 "Teacher": "延澤 志保",
                 "ClassCode": "sab312301",
                 "Classroom": "12A"
             },
             {
+                "Semester": "前期後",
                 "Subject": "視覚情報システム",
                 "Teacher": "包 躍",
                 "ClassCode": "sab312306",
@@ -320,42 +370,49 @@
         ],
         [
             {
+                "Semester": "前期",
                 "Subject": "再・数学演習(1)",
                 "Teacher": "古田 公司\n永並 健吾\n波多野 修也",
                 "ClassCode": "saz312409",
                 "Classroom": "12A,12B,12C"
             },
             {
+                "Semester": "前期前",
                 "Subject": "数学演習(1a)",
                 "Teacher": "古田 公司\n永並 健吾\n波多野 修也",
                 "ClassCode": "saa312407",
                 "Classroom": "12A,12B,12C"
             },
             {
+                "Semester": "前期前",
                 "Subject": "ｵﾌﾞｼﾞｪｸﾄ指向ﾌﾟﾛｸﾞﾗﾐﾝｸﾞ(1)",
                 "Teacher": "横山 孝典",
                 "ClassCode": "saa312401",
                 "Classroom": "12D"
             },
             {
+                "Semester": "前期前",
                 "Subject": "プログラミング言語処理",
                 "Teacher": "延澤 志保",
                 "ClassCode": "saa312402",
                 "Classroom": "12K"
             },
             {
+                "Semester": "前期後",
                 "Subject": "数学演習(1b)",
                 "Teacher": "古田 公司\n永並 健吾\n波多野 修也",
                 "ClassCode": "sab312408",
                 "Classroom": "12A,12B,12C"
             },
             {
+                "Semester": "前期後",
                 "Subject": "ｵﾌﾞｼﾞｪｸﾄ指向ﾌﾟﾛｸﾞﾗﾐﾝｸﾞ(2)",
                 "Teacher": "横山 孝典",
                 "ClassCode": "sab312403",
                 "Classroom": "12D"
             },
             {
+                "Semester": "前期後",
                 "Subject": "画像処理",
                 "Teacher": "向井 信彦",
                 "ClassCode": "sab312404",
@@ -364,12 +421,14 @@
         ],
         [
             {
+                "Semester": "前期前",
                 "Subject": "ｵﾌﾞｼﾞｪｸﾄ指向ﾌﾟﾛｸﾞﾗﾐﾝｸﾞ(1)",
                 "Teacher": "横山 孝典",
                 "ClassCode": "saa312401",
                 "Classroom": "12D"
             },
             {
+                "Semester": "前期後",
                 "Subject": "ｵﾌﾞｼﾞｪｸﾄ指向ﾌﾟﾛｸﾞﾗﾐﾝｸﾞ(2)",
                 "Teacher": "横山 孝典",
                 "ClassCode": "sab312403",
@@ -380,6 +439,7 @@
     [
         [
             {
+                "Semester": "前期",
                 "Subject": "SD PBL(1)",
                 "Teacher": "向井 信彦\n荒井 秀一\n大屋 英稔\n田口 亮\n中野 秀洋\n包 躍\n兪 明連\n横山 孝典\n相原 研輔\n陳 オリビア\n張 英夏\n新家 稔央\n延澤 志保\n星 義克",
                 "ClassCode": "saz313101",
@@ -388,6 +448,7 @@
         ],
         [
             {
+                "Semester": "前期",
                 "Subject": "SD PBL(2)",
                 "Teacher": "向井 信彦\n荒井 秀一\n大屋 英稔\n田口 亮\n中野 秀洋\n包 躍\n兪 明連\n横山 孝典\n相原 研輔\n陳 オリビア\n張 英夏\n新家 稔央\n延澤 志保\n星 義克",
                 "ClassCode": "saz313201",
@@ -398,30 +459,35 @@
     [
         [
             {
+                "Semester": "前期前",
                 "Subject": "物理学(1)",
                 "Teacher": "門多 顕司",
                 "ClassCode": "saa311105",
                 "Classroom": "1BL"
             },
             {
+                "Semester": "前期前",
                 "Subject": "物理学(1)",
                 "Teacher": "砂畑 浩樹",
                 "ClassCode": "saa311106",
                 "Classroom": "1BK"
             },
             {
+                "Semester": "前期前",
                 "Subject": "人工知能",
                 "Teacher": "中野 秀洋",
                 "ClassCode": "saa311102",
                 "Classroom": "12N"
             },
             {
+                "Semester": "前期後",
                 "Subject": "化学(1)",
                 "Teacher": "堀越 篤史",
                 "ClassCode": "sab311108",
                 "Classroom": "31B"
             },
             {
+                "Semester": "前期後",
                 "Subject": "情報理論",
                 "Teacher": "新家 稔央",
                 "ClassCode": "sab311101",
@@ -430,30 +496,35 @@
         ],
         [
             {
+                "Semester": "前期前",
                 "Subject": "物理学(1)演習",
                 "Teacher": "門多 顕司",
                 "ClassCode": "saa311209",
                 "Classroom": "1BL"
             },
             {
+                "Semester": "前期前",
                 "Subject": "情報理論",
                 "Teacher": "新家 稔央",
                 "ClassCode": "saa311201",
                 "Classroom": "32A"
             },
             {
+                "Semester": "前期前",
                 "Subject": "古典制御理論",
                 "Teacher": "大屋 英稔",
                 "ClassCode": "saa311206",
                 "Classroom": "12L"
             },
             {
+                "Semester": "前期後",
                 "Subject": "コンピュータシステム",
                 "Teacher": "中野 秀洋",
                 "ClassCode": "sab311207",
                 "Classroom": "22C"
             },
             {
+                "Semester": "前期後",
                 "Subject": "組込みシステム",
                 "Teacher": "横山 孝典",
                 "ClassCode": "sab311203",
@@ -463,18 +534,21 @@
         [],
         [
             {
+                "Semester": "前期前",
                 "Subject": "情報リテラシー",
                 "Teacher": "張 英夏",
                 "ClassCode": "saa311401",
                 "Classroom": "22C"
             },
             {
+                "Semester": "前期前",
                 "Subject": "微分方程式論",
                 "Teacher": "古田 公司",
                 "ClassCode": "saa311402",
                 "Classroom": "13P"
             },
             {
+                "Semester": "前期後",
                 "Subject": "ベクトル解析学",
                 "Teacher": "服部 新",
                 "ClassCode": "sab151207",
@@ -485,66 +559,77 @@
     [
         [
             {
+                "Semester": "前期",
                 "Subject": "Communication Skills(1)",
                 "Teacher": "E・マディーン",
                 "ClassCode": "saz115103",
                 "Classroom": "13L"
             },
             {
+                "Semester": "前期",
                 "Subject": "Communication Skills(1)",
                 "Teacher": "倉持 和歌子",
                 "ClassCode": "saz115104",
                 "Classroom": "12C"
             },
             {
+                "Semester": "前期",
                 "Subject": "Communication Skills(1)",
                 "Teacher": "吹野 佐枝子",
                 "ClassCode": "saz115105",
                 "Classroom": "12F"
             },
             {
+                "Semester": "前期",
                 "Subject": "Communication Skills(1)",
                 "Teacher": "松本 弘法",
                 "ClassCode": "saz115106",
                 "Classroom": "12D"
             },
             {
+                "Semester": "前期",
                 "Subject": "Communication Skills(1)",
                 "Teacher": "植野 貴志子",
                 "ClassCode": "saz115107",
                 "Classroom": "11F"
             },
             {
+                "Semester": "前期",
                 "Subject": "Communication Skills(1)",
                 "Teacher": "稲垣 亜希子",
                 "ClassCode": "saz115108",
                 "Classroom": "12G"
             },
             {
+                "Semester": "前期",
                 "Subject": "Communication Skills(1)",
                 "Teacher": "三幣 友行",
                 "ClassCode": "saz115109",
                 "Classroom": "11D"
             },
             {
+                "Semester": "前期",
                 "Subject": "Communication Skills(1)",
                 "Teacher": "杉本 裕代",
                 "ClassCode": "saz115110",
                 "Classroom": "11E"
             },
             {
+                "Semester": "前期",
                 "Subject": "Communication Skills(1)",
                 "Teacher": "秋山 義典",
                 "ClassCode": "saz115111",
                 "Classroom": "11A"
             },
             {
+                "Semester": "前期前",
                 "Subject": "アルゴリズムとデータ構造",
                 "Teacher": "兪 明連",
                 "ClassCode": "saa312104",
                 "Classroom": "71B"
             },
             {
+                "Semester": "前期後",
                 "Subject": "専門キャリアデザイン",
                 "Teacher": "川上 誓",
                 "ClassCode": "sab315101",
@@ -553,48 +638,56 @@
         ],
         [
             {
+                "Semester": "前期",
                 "Subject": "再・微分積分学(1)",
                 "Teacher": "大槻 玲",
                 "ClassCode": "saz315206",
                 "Classroom": "13N"
             },
             {
+                "Semester": "前期前",
                 "Subject": "微分積分学(1a)",
                 "Teacher": "大槻 玲",
                 "ClassCode": "saa315204",
                 "Classroom": "13N"
             },
             {
+                "Semester": "前期前",
                 "Subject": "デジタル信号処理",
                 "Teacher": "荒井 秀一",
                 "ClassCode": "saa312204",
                 "Classroom": "21C"
             },
             {
+                "Semester": "前期前",
                 "Subject": "デジタル信号処理",
                 "Teacher": "田口 亮",
                 "ClassCode": "saa312203",
                 "Classroom": "12K"
             },
             {
+                "Semester": "前期前",
                 "Subject": "再・技術日本語表現技法",
                 "Teacher": "志田 晃一郎",
                 "ClassCode": "saa312201",
                 "Classroom": "12P"
             },
             {
+                "Semester": "前期後",
                 "Subject": "微分積分学(1b)",
                 "Teacher": "大槻 玲",
                 "ClassCode": "sab315205",
                 "Classroom": "13N"
             },
             {
+                "Semester": "前期後",
                 "Subject": "基礎論理回路",
                 "Teacher": "田口 亮",
                 "ClassCode": "sab312202",
                 "Classroom": "22C"
             },
             {
+                "Semester": "前期後",
                 "Subject": "専門キャリアデザイン",
                 "Teacher": "川上 誓",
                 "ClassCode": "sab315101",
@@ -603,30 +696,35 @@
         ],
         [
             {
+                "Semester": "前期前",
                 "Subject": "コンピュータ概論",
                 "Teacher": "向井 信彦",
                 "ClassCode": "saa312305",
                 "Classroom": "21C"
             },
             {
+                "Semester": "前期前",
                 "Subject": "インタラクティブ･メディア",
                 "Teacher": "包 躍",
                 "ClassCode": "saa312304",
                 "Classroom": "13K"
             },
             {
+                "Semester": "前期後",
                 "Subject": "基礎確率統計",
                 "Teacher": "相原 研輔",
                 "ClassCode": "sab312303",
                 "Classroom": "21C"
             },
             {
+                "Semester": "前期後",
                 "Subject": "データベースシステム",
                 "Teacher": "延澤 志保",
                 "ClassCode": "sab312301",
                 "Classroom": "12A"
             },
             {
+                "Semester": "前期後",
                 "Subject": "視覚情報システム",
                 "Teacher": "包 躍",
                 "ClassCode": "sab312306",
@@ -635,18 +733,21 @@
         ],
         [
             {
+                "Semester": "前期前",
                 "Subject": "プログラミング言語処理",
                 "Teacher": "延澤 志保",
                 "ClassCode": "saa312402",
                 "Classroom": "12K"
             },
             {
+                "Semester": "前期後",
                 "Subject": "ハードウェア記述言語",
                 "Teacher": "陳 オリビア",
                 "ClassCode": "sab315401",
                 "Classroom": "21C"
             },
             {
+                "Semester": "前期後",
                 "Subject": "画像処理",
                 "Teacher": "向井 信彦",
                 "ClassCode": "sab312404",
@@ -655,6 +756,7 @@
         ],
         [
             {
+                "Semester": "前期後",
                 "Subject": "ハードウェア記述言語",
                 "Teacher": "陳 オリビア",
                 "ClassCode": "sab315401",
@@ -665,30 +767,35 @@
     [
         [
             {
+                "Semester": "前期",
                 "Subject": "再・情報社会と職業",
                 "Teacher": "川上 誓",
                 "ClassCode": "saz316103",
                 "Classroom": "12B"
             },
             {
+                "Semester": "前期前",
                 "Subject": "プログラミング(1)",
                 "Teacher": "星 義克",
                 "ClassCode": "saa316101",
                 "Classroom": "21C"
             },
             {
+                "Semester": "前期前",
                 "Subject": "情報社会と職業(a)",
                 "Teacher": "川上 誓",
                 "ClassCode": "saa316105",
                 "Classroom": "12B"
             },
             {
+                "Semester": "前期後",
                 "Subject": "プログラミング(2)",
                 "Teacher": "相原 研輔",
                 "ClassCode": "sab316102",
                 "Classroom": "21C"
             },
             {
+                "Semester": "前期後",
                 "Subject": "情報社会と職業(b)",
                 "Teacher": "川上 誓",
                 "ClassCode": "sab316106",
@@ -697,36 +804,42 @@
         ],
         [
             {
+                "Semester": "前期前",
                 "Subject": "プログラミング(1)",
                 "Teacher": "星 義克",
                 "ClassCode": "saa316101",
                 "Classroom": "21C"
             },
             {
+                "Semester": "前期後",
                 "Subject": "プログラミング(2)",
                 "Teacher": "相原 研輔",
                 "ClassCode": "sab316102",
                 "Classroom": "21C"
             },
             {
+                "Semester": "前集中",
                 "Subject": "データサイエンスリテラシー(1)",
                 "Teacher": "鈴木 健二",
                 "ClassCode": "saz567601",
                 "Classroom": "-"
             },
             {
+                "Semester": "前集中",
                 "Subject": "メディア表現",
                 "Teacher": "江口 響子",
                 "ClassCode": "saz317601",
                 "Classroom": "-"
             },
             {
+                "Semester": "前集中",
                 "Subject": "再・情報リテラシー",
                 "Teacher": "張 英夏",
                 "ClassCode": "saz317607",
                 "Classroom": "-"
             },
             {
+                "Semester": "前集中",
                 "Subject": "卒業研究(1)",
                 "Teacher": "向井 信彦\n荒井 秀一\n大屋 英稔\n田口 亮\n中野 秀洋\n包 躍\n兪 明連\n横山 孝典\n相原 研輔\n陳 オリビア\n張 英夏\n新家 稔央\n延澤 志保\n星 義克\n高橋 弘毅\n山口 敦子",
                 "ClassCode": "saz317604",
