@@ -23,13 +23,13 @@ footer {
 }
 
 .container {
-  width: 90%;
+  width: 100%;
   height: auto;
   display: block;
+  text-align: center;
 }
 
 .select-box {
   width: 100%;
   height: auto;
-  display: flex;
 }

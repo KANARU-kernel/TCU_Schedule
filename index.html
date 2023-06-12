@@ -31,65 +31,68 @@
                 </li>
             </ul>
         </div>
-    </div>
-    <div class="select-box">
-        <label for="weekday">曜日を選択してください：</label>
-        <ul>
-            <li>
-                <input type="radio" id="weekday-radio-1" name="weekday" value="0" checked
-                    onclick="updateClassList()">月曜日</input>
-            </li>
-            <li>
-                <input type="radio" id="weekday-radio-2" name="weekday" value="1"
-                    onclick="updateClassList()">火曜日</input>
-            </li>
-            <li>
-                <input type="radio" id="weekday-radio-3" name="weekday" value="2"
-                    onclick="updateClassList()">水曜日</input>
-            </li>
-            <li>
-                <input type="radio" id="weekday-radio-4" name="weekday" value="3"
-                    onclick="updateClassList()">木曜日</input>
-            </li>
-            <li>
-                <input type="radio" id="weekday-radio-5" name="weekday" value="4"
-                    onclick="updateClassList()">金曜日</input>
-            </li>
-            <li>
-                <input type="radio" id="weekday-radio-6" name="weekday" value="5"
-                    onclick="updateClassList()">土曜日</input>
-            </li>
-        </ul>
-    </div>
-    <div class="select-box">
-        <label for="period">時限を選択してください：</label>
-        <ul>
-            <li>
-                <input type="radio" id="period-radio-1" name="period" value="0" checked
-                    onclick="updateClassList()">一限目</input>
-            </li>
-            <li>
-                <input type="radio" id="period-radio-2" name="period" value="1" onclick="updateClassList()">二限目</input>
-            </li>
-            <li>
-                <input type="radio" id="period-radio-3" name="period" value="2" onclick="updateClassList()">三限目</input>
-            </li>
-            <li>
-                <input type="radio" id="period-radio-4" name="period" value="3" onclick="updateClassList()">四限目</input>
-            </li>
-            <li>
-                <input type="radio" id="period-radio-5" name="period" value="4" onclick="updateClassList()">五限目</input>
-            </li>
-        </ul>
-    </div>
-    <label for="course">授業を選択：</label>
-    <select id="course"></select>
+        <div class="select-box">
+            <label for="weekday">曜日を選択してください：</label>
+            <ul>
+                <li>
+                    <input type="radio" id="weekday-radio-1" name="weekday" value="0" checked
+                        onclick="updateClassList()">月曜日</input>
+                </li>
+                <li>
+                    <input type="radio" id="weekday-radio-2" name="weekday" value="1"
+                        onclick="updateClassList()">火曜日</input>
+                </li>
+                <li>
+                    <input type="radio" id="weekday-radio-3" name="weekday" value="2"
+                        onclick="updateClassList()">水曜日</input>
+                </li>
+                <li>
+                    <input type="radio" id="weekday-radio-4" name="weekday" value="3"
+                        onclick="updateClassList()">木曜日</input>
+                </li>
+                <li>
+                    <input type="radio" id="weekday-radio-5" name="weekday" value="4"
+                        onclick="updateClassList()">金曜日</input>
+                </li>
+                <li>
+                    <input type="radio" id="weekday-radio-6" name="weekday" value="5"
+                        onclick="updateClassList()">土曜日</input>
+                </li>
+            </ul>
+        </div>
+        <div class="select-box">
+            <label for="period">時限を選択してください：</label>
+            <ul>
+                <li>
+                    <input type="radio" id="period-radio-1" name="period" value="0" checked
+                        onclick="updateClassList()">一限目</input>
+                </li>
+                <li>
+                    <input type="radio" id="period-radio-2" name="period" value="1"
+                        onclick="updateClassList()">二限目</input>
+                </li>
+                <li>
+                    <input type="radio" id="period-radio-3" name="period" value="2"
+                        onclick="updateClassList()">三限目</input>
+                </li>
+                <li>
+                    <input type="radio" id="period-radio-4" name="period" value="3"
+                        onclick="updateClassList()">四限目</input>
+                </li>
+                <li>
+                    <input type="radio" id="period-radio-5" name="period" value="4"
+                        onclick="updateClassList()">五限目</input>
+                </li>
+            </ul>
+        </div>
+        <div class="select-box">
+            <label for="course">授業を選択：</label>
+            <select id="course"></select>
+            <button onclick="updateClassInfo()">授業検索</button>
+        </div>
+        <div id="schedule" class=""></div>
 
-    <button onclick="updateClassInfo()">授業検索</button>
-
-    <div id="schedule"></div>
-
-    <footer>Copyright &copy; 2023 sdbpl team 33</footer>
+        <footer>Copyright &copy; 2023 sdbpl team 33</footer>
     </div>
     <script src="data.js"></script>
     <script src="script.js"></script>

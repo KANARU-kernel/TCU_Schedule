@@ -24,9 +24,10 @@ function updateClassList() {
     var classList = scheduleData[selectedWeekday][selectedPeriod]
     for (var i = 0; i < classList.length; i++) {
         var course = classList[i].Subject;
-        if (!courseNames.includes(course)) {
-            courseNames.push(course);
-        }
+        // if (!courseNames.includes(course)) {
+            // courseNames.push(course);
+            // }
+        courseNames.push(course);
     }
 
     for (var l = 0; l < courseNames.length; l++) {
@@ -48,7 +49,7 @@ function updateClassInfo() {
 
     // 授業情報を表示
     var scheduleDiv = document.getElementById("schedule");
-    scheduleDiv.innerHTML = "授業名：" + selectedSchedule.Subject + "<br>教室：" + selectedSchedule.Classroom + "<br>講師：" + selectedSchedule.Teacher;
+    scheduleDiv.innerHTML = "学期: " + selectedSchedule.Semester + "<br>授業名：" + selectedSchedule.Subject + "<br>教室：" + selectedSchedule.Classroom + "<br>講師：" + selectedSchedule.Teacher;
 }
 
 function updateMajor() {
